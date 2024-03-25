@@ -1,16 +1,20 @@
-### Hi there 👋
+# Gerassimos Moutafis
 
-<!--
-**itsgerassimos/itsgerassimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`PRIMARY ROLES:`**  
+### Software Engineer 👨🏻‍💻, Artist 🎧, Performer🎤, Filmmaker🎥 and Writer✍
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`PRIMARY TECH:`**  
+### Statistics / Data Science
+- **Language:** R
+
+### Web Development
+- **Frontend:**
+  - **Languages:** HTML, CSS, JavaScript, TypeScript
+  - **Frameworks/Libraries:** ReactJS
+  - **Animation Libraries:** FramerMotion
+  - **Design Tools:** Figma
+- **Backend:**
+  - **Database:** FireBase
+
