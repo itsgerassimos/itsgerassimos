@@ -5,6 +5,12 @@
 
 <br/>
 
+**`CURRENT PROJECT:`**  
+**Created and working on a new functional programming language, GLP:**
+
+GLP is an **expandable interpreted functional general purpose programming language** made by Gerassimos.
+https://github.com/itsgerassimos/GLP
+
 **`PRIMARY TECH:`**  
 ### Statistics / Data Science
 - **Language:** R
