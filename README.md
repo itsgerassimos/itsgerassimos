@@ -1,7 +1,7 @@
 # Gerassimos Moutafis
 
 **`PRIMARY ROLES:`**  
-### Software Engineer 👨🏻‍💻, Artist 🎧, Performer🎤, Filmmaker🎥 and Writer✍
+### Software Engineer 👨🏻‍💻, Artist 🎧, Performer 🎤, Filmmaker 🎥 and Writer ✍
 
 <br/>
 
