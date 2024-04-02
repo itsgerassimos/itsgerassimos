@@ -1,4 +1,7 @@
+
 # Gerassimos Moutafis
+
+![136891956](https://github.com/itsgerassimos/itsgerassimos/assets/136891956/4a01cf9a-9f3a-4598-98d0-2ebe69e7bc6c)
 
 **`PRIMARY ROLES:`**  
 ### Software Engineer 👨🏻‍💻, Artist 🎧, Performer 🎤, Filmmaker 🎥 and Writer ✍
