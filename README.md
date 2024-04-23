@@ -14,6 +14,13 @@
 GLP is an **expandable interpreted functional general purpose programming language** made by Gerassimos.
 https://github.com/itsgerassimos/GLP
 
+**`OTHER PROJECTS:`**  
+Artistic Programming  Portfolio Website
+https://gerassimos-f8fff.web.app/
+
+Social Network Website
+https://social-project-23e14.web.app/
+
 **`PRIMARY TECH:`**  
 ### Statistics / Data Science
 - **Language:** R
