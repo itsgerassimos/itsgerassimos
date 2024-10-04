@@ -1,4 +1,3 @@
-
 # Gerassimos Moutafis
 
 **`PRIMARY ROLES:`**  
@@ -15,11 +14,35 @@ GLP is an **expandable interpreted functional general purpose programming langua
 https://github.com/itsgerassimos/GLP
 
 **`OTHER PROJECTS:`**  
-Artistic Programming  Portfolio Website
+
+### Music
+My music is available in all platforms
+
+Youtube 
+
+https://www.youtube.com/@GerassimosOfficial
+
+Spotify 
+
+https://open.spotify.com/album/4ZESooIAIEP4Q5XY8rwCjR
+
+Itunes/Apple Music 
+
+https://music.apple.com/us/album/i-love-you-single/1608247572
+
+Official Music Website 
+https://itsgerassimos.com/
+
+### Artistic Software
+Artistic Programming Portfolio Website
 https://gerassimos-f8fff.web.app/
 
-Social Network Website
+### Full-Stack Website
+Social Network Website (For demo account use email@email.com, as username & password)
 https://social-project-23e14.web.app/
+
+### Author
+My book, soon to be published in Greek and English, delves into the depths of consciousness and contemporary philosophy
 
 **`PRIMARY TECH:`**  
 ### Statistics / Data Science
@@ -34,3 +57,7 @@ https://social-project-23e14.web.app/
 - **Backend:**
   - **Database:** FireBase
 
+### Music/Filmmaking
+- **Production:**
+  - Expert in music production
+  - Producer of music videos
