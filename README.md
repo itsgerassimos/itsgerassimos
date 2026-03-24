@@ -1,7 +1,9 @@
 # Gerassimos Moutafis
 
 **`PRIMARY ROLES:`**  
-### Software Engineer 👨🏻‍💻, Artist 🎧, Performer 🎤, Filmmaker 🎥, Author ✍
+### Software Engineer, Statistician, Singer, Producer, Filmmaker, Author & Artist
+
+I like to be creative and challenge myself in solving problems of all kinds.
 
 <br/>
 
@@ -42,7 +44,7 @@ Social Network Website (For demo account use email@email.com, as username & pass
 https://social-project-23e14.web.app/
 
 ### Author
-My book, soon to be published in Greek and English, delves into the depths of consciousness and contemporary philosophy
+My book, soon to be published, delves into the depths of consciousness and contemporary philosophy.
 
 **`PRIMARY TECH:`**  
 ### Statistics / Data Science
@@ -68,7 +70,7 @@ My book, soon to be published in Greek and English, delves into the depths of co
   - Piano
   - Bass
   - traditional string instruments
-- ** Main Software
+- **Main Software:**
   - Studio One
   - Davinci Resolve
 
