@@ -61,4 +61,14 @@ My book, soon to be published in Greek and English, delves into the depths of co
 ### Music/Filmmaking
 - **Production:**
   - Expert in music production
+  - Singer & multiinstrumentalist
   - Producer of music videos
+- **Instruments:**
+  - Guitar
+  - Piano
+  - Bass
+  - traditional string instruments
+- ** Main Software
+  - Studio One
+  - Davinci Resolve
+
