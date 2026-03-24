@@ -46,7 +46,8 @@ My book, soon to be published in Greek and English, delves into the depths of co
 
 **`PRIMARY TECH:`**  
 ### Statistics / Data Science
-- **Language:** R
+- **Language:** R, SQL, Python
+- **Database:** Postgres
 
 ### Web Development
 - **Frontend:**
